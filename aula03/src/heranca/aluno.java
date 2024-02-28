@@ -6,6 +6,5 @@ public class aluno extends pessoa {
     public aluno(String nome, String CPF, String data_nascimento, int matricula) {
         super(nome, CPF, data_nascimento);
         this.matricula = matricula;
-
     }
 }
